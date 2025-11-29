@@ -1,0 +1,19 @@
+SEO QuickAudit Report
+URL: https://example.com
+Date: 2025-01-01 00:00:00
+
+Global score: 82
+Performance: 75
+Accessibility: 90
+Best Practices: 80
+SEO: 85
+
+Top actions:
+- Site is not served over HTTPS
+- Missing mobile viewport
+- Images missing alt text
+
+Checklist:
+- Site is not served over HTTPS
+- Missing mobile viewport
+- Images missing alt text

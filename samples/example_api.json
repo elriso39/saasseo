@@ -1,0 +1,40 @@
+{
+  "request": {
+    "url": "https://example.com",
+    "tasksDone": ["title", "meta_description"],
+    "acceptanceThreshold": 85
+  },
+  "response": {
+    "url": "https://example.com",
+    "date": "2025-01-01T00:00:00.000Z",
+    "globalScore": 82,
+    "categoryScores": {
+      "performance": 75,
+      "accessibility": 90,
+      "bestPractices": 80,
+      "seo": 85
+    },
+    "checklist": [
+      {
+        "id": "https",
+        "category": "bestPractices",
+        "severity": "critical",
+        "message": "Site is not served over HTTPS",
+        "explanation": "HTTPS protects data integrity and is a ranking factor.",
+        "fix": "Enable HTTPS with a valid TLS certificate.",
+        "impact": 10
+      }
+    ],
+    "topActions": [
+      {
+        "id": "https",
+        "category": "bestPractices",
+        "severity": "critical",
+        "message": "Site is not served over HTTPS",
+        "explanation": "HTTPS protects data integrity and is a ranking factor.",
+        "fix": "Enable HTTPS with a valid TLS certificate.",
+        "impact": 10
+      }
+    ]
+  }
+}
