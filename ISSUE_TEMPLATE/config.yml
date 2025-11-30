@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/elriso39/saasseo/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📚 Documentation
+    url: https://github.com/elriso39/saasseo#readme
+    about: Read the full documentation and guides
+  - name: 🔍 Search Existing Issues
+    url: https://github.com/elriso39/saasseo/issues
+    about: Check if your issue has already been reported
