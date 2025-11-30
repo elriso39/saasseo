@@ -1,0 +1,36 @@
+documentation:
+  - '**/*.md'
+  - 'docs/**/*'
+
+dependencies:
+  - 'package.json'
+  - 'package-lock.json'
+  - 'yarn.lock'
+  - 'pnpm-lock.yaml'
+
+tests:
+  - 'tests/**/*'
+  - '**/*.test.ts'
+  - '**/*.test.tsx'
+  - '**/*.spec.ts'
+
+ci/cd:
+  - '.github/**/*'
+  - 'Dockerfile'
+  - '.dockerignore'
+
+configuration:
+  - '*.config.js'
+  - '*.config.ts'
+  - 'tsconfig.json'
+  - '.env.example'
+  - '.editorconfig'
+
+frontend:
+  - 'pages/**/*'
+  - 'components/**/*'
+  - 'styles/**/*'
+
+api:
+  - 'pages/api/**/*'
+  - 'lib/**/*'
