@@ -6,8 +6,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
-![CI](https://github.com/elriso39/saasseo/workflows/CI/badge.svg)
-![CodeQL](https://github.com/elriso39/saasseo/workflows/CodeQL/badge.svg)
 
 **Automated SEO auditing tool for small and medium businesses**
 
@@ -418,3 +416,4 @@ If you find this project helpful, please consider giving it a ⭐!
 
 
 </div>
+
